@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @vicky2607
 - 👀 I’m interested in Computer Learning
 - 🌱 I’m currently learning web develpoment
-- 💞️ I’m looking to collaborate on ...
 - 📫 Contact me- vickyrosingh.7996@gmail.com
 
 <!---
